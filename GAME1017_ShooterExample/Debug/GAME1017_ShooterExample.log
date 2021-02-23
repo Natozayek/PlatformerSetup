@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GAME1017_A1_WanboWang_MiguelPenalver.vcxproj, GAME1017_ShooterExample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Engine.cpp
+  EventManager.cpp
+  Main.cpp
+  PlatformPlayer.cpp
+C:\Users\migue\Desktop\GAME1017_PlatformerSetup\GAME1017_ShooterExample\PlatformPlayer.cpp(92,19): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\migue\Desktop\GAME1017_PlatformerSetup\GAME1017_ShooterExample\PlatformPlayer.cpp(96,19): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Sprites.cpp
+  StateManager.cpp
+  States.cpp
+  TextureManager.cpp
+  TiledLevel.cpp
+  Generating Code...
+  GAME1017_ShooterExample.vcxproj -> C:\Users\migue\Desktop\GAME1017_PlatformerSetup\Debug\PLATFORMER.exe
